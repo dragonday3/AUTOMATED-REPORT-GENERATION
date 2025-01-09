@@ -20,9 +20,6 @@ The **Student Scores Report Generator** is a Python-based application designed t
 - automated_report_generation.py (Main Python File)
 - File.csv (Sample CSV File)
 
-**TOOLS/TECH. USED:**
-
-
 **KEY FEATURES:**
 1. **CSV Data Input**: The application reads student data from a CSV file, which is a widely used format for data storage and exchange. The CSV file must contain at least two columns: `Name` and `Score`. This allows users to easily manage and update student information using spreadsheet software like Microsoft Excel or Google Sheets.
 
@@ -38,4 +35,14 @@ The **Student Scores Report Generator** is a Python-based application designed t
 
 4. **User-Friendly Interface**: The program prompts users to input the name of the CSV file, making it accessible even for those with limited technical skills. This feature ensures that users can operate the application without needing to modify the code.
 
+**TOOLS/TECH. USED:**
+- **Python**: The primary programming language used for developing the application.
+- **fpdf**: A library for generating PDF documents in Python.
+- **csv**: A built-in Python library for reading and writing CSV files.
 
+**INSTALLATION AND USAGE:** 
+To run this project, you need to have Python installed on your machine. You can install the required library using pip. Here are the steps to set up the project:
+
+1. Clone the repo to your local machine:
+
+   

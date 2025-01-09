@@ -16,3 +16,5 @@
 
 The **Student Scores Report Generator** is a Python-based application designed to streamline the process of analyzing and presenting student performance data. This tool is particularly useful for educators, school administrators, and anyone involved in academic assessment who needs to quickly summarize student scores in a professional format. By leveraging the simplicity of CSV files for data input and the versatility of PDF for output, this project provides an efficient solution for generating comprehensive reports.
 
+**KEY FEATURES:**
+1. **CSV Data Input**: The application reads student data from a CSV file, which is a widely used format for data storage and exchange. The CSV file must contain at least two columns: `Name` and `Score`. This allows users to easily manage and update student information using spreadsheet software like Microsoft Excel or Google Sheets.

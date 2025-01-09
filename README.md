@@ -44,5 +44,20 @@ The **Student Scores Report Generator** is a Python-based application designed t
 To run this project, you need to have Python installed on your machine. You can install the required library using pip. Here are the steps to set up the project:
 
 1. Clone the repo to your local machine:
+   - git clone https://github.com/dragonday3/AUTOMATED-REPORT-GENERATION.git
 
-   
+2. Install the required library:
+   - pip install fpdf
+
+3. Prepare a CSV file with student data. The file should have format as mentioned in the sample csv file (File.csv)
+
+4. Save the CSV file in the same directory as the script.
+
+5. Run the script:
+   - python automated_report_generation.py
+
+6. When prompted, enter the name of the CSV file (including the .csv extension).
+
+7. The program will read the data, analyze it, and generate a PDF report named 'report.pdf' in the same directory.
+
+8. Check the directory for the generated PDF report.

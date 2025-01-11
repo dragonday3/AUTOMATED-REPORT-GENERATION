@@ -58,6 +58,9 @@ To run this project, you need to have Python installed on your machine. You can 
 
 6. When prompted, enter the name of the CSV file (including the .csv extension).
 
-7. The program will read the data, analyze it, and generate a PDF report named 'report.pdf' in the same directory.
+8. The program will read the data, analyze it, and generate a PDF report named 'report.pdf' in the same directory.
 
-8. Check the directory for the generated PDF report.
+9. Check the directory for the generated PDF report.
+
+# **OUTPUT**
+

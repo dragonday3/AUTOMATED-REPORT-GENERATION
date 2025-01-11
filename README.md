@@ -63,4 +63,5 @@ To run this project, you need to have Python installed on your machine. You can 
 9. Check the directory for the generated PDF report.
 
 # **OUTPUT**
-
+![Screenshot 2025-01-11 104238](https://github.com/user-attachments/assets/aa2c167e-ab7a-4034-94aa-0ff3e3e30394)
+![Screenshot 2025-01-11 104404](https://github.com/user-attachments/assets/f7e699a3-443e-4676-9078-8e603514ee24)
